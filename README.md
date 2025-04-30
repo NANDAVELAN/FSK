@@ -86,9 +86,9 @@ plt.tight_layout()
 plt.show()
 ```
 # Output Waveform
-```
+
 ![image](https://github.com/user-attachments/assets/ff6a7ac2-02e8-41ea-a04d-cd776ff2535c)
-```
+
 # Results
 ```
 FSK modulation and demodulation were successfully demonstrated.The modulated signal varied between two frequencies depending on binary input.The demodulated output correctly reproduced the original digital signal, validating theworking of the FSK system.```
